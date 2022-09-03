@@ -1,5 +1,8 @@
 <h1>Personal Portfolio React Js</h1>
 <span>
+
+<img src="https://github.com/ebreyaue/personal_portfolio/blob/master/src/img/personal_portfolio.png?raw=true">
+
 My Personal portfolio page, thanks to <a href="https://github.com/safak/youtube/tree/react-portfolio-website/src">safak</a> 
 
 # Getting Started with Create React App
